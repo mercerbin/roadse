@@ -1,0 +1,6 @@
+export { default as login } from './login.js'
+export { default as register } from './register.js'
+export { default as confirmEmail } from './confirmEmail.js'
+export { default as forgotPass } from './forgotPass.js'
+export { default as newPass } from './newPass.js'
+export { default as resendCode } from './resendCode.js'
